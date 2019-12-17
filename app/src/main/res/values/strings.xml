@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Luas Segitiga</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="clear">Clear</string>
+    <string name="sisi1">Sisi 1</string>
+</resources>
